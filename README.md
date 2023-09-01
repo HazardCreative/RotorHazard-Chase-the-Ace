@@ -1,4 +1,4 @@
-# RotorHazard Chae the Ace
+# RotorHazard Chase the Ace
 "Chase the Ace" notifier plugin for RotorHazard
 
 Provides feedback to race directors about "Chase the Ace" status of the last heat in a class.
