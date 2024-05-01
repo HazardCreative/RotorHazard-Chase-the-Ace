@@ -1,0 +1,13 @@
+{
+    "name": "Chase the Ace Notifier",
+    "author": "Michael Niggel",
+    "author_uri": "https://hazardcreative.com",
+    "description": "Provides feedback to race directors about \"Chase the Ace\" status of the last heat in a class.",
+    "info_uri": "https://github.com/HazardCreative/RotorHazard-Chase-the-Ace",
+    "license": "RotorHazard",
+    "license_uri": "https://github.com/RotorHazard/RotorHazard/blob/main/LICENSE",
+    "version": "1.0.0",
+    "required_rhapi_version": "1.0",
+    "update_uri": null,
+    "text_domain": null
+}
